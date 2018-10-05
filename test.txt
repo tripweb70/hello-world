@@ -1,3 +1,10 @@
 **Creating a new test.txt file **
-I like watching Netflix, Amazon Prime and Hulu, but have to go somewhere else for sports during football season.
+I like watching Netflix, Amazon Prime and Hulu, but have to go somewhere else for sports during football season. Like Xfinity!
 Need to check College Pick'em to see how I did this week.
+:tada: :octocat: :zap:
+
+:tada: :octocat: :zap:
+
+:tada: :octocat: :zap:
+
+*** Added text to line 2 and added lines 4 - 10. ***
